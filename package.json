@@ -1,0 +1,22 @@
+{
+  "name": "honeycomb",
+  "version": "1.0.0",
+  "description": "A modular JS framework with packed with all the syntactical sugar a web artisan needs.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-masterbee:beelabs-canada/honeycomb.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-jquery": "^1.0.1"
+  }
+}
