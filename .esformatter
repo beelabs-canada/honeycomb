@@ -1,0 +1,13 @@
+{
+    "preset": "jquery",
+    "indent" : {
+        "TopLevelFunctionBlock": 1
+    },
+    "plugins": [
+    "esformatter-quotes"
+  ],
+  "quotes": {
+    "type": "double",
+    "avoidEscape": false
+  }
+}
